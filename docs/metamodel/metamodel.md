@@ -22,5 +22,11 @@ For the best viewing experience, you can access the diagram directly in your pre
 
 The diagrams in this repository are licensed under the [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
+## Attribution
+
+This work is derived from ISO 20022-1:2013 metamodel and eRepository from www.iso20022.org.
+
+When using this material, please provide attribution to the original sources as well as to this repository.
+
 
 
