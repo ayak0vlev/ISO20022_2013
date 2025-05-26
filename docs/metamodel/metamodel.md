@@ -1,10 +1,10 @@
 # ISO 20022 Metamodel
 
-This document describes the ISO 20022 metamodel that serves as the foundation for the content of the ISO 20022 eRepository ad ISO 20022 message definitions.
+This document describes the ISO 20022 metamodel that serves as the foundation for the content of the ISO 20022 eRepository and ISO 20022 message definitions.
 
-## Metamodel Visualization
+## Metamodel Visualisation
 
-The ISO 20022 metamodel is visualized in the diagrams below to help understand the relationships between different components of the standard. These visualizations are provided to make the complex structure of ISO 20022 more accessible.
+The ISO 20022 metamodel is visualised in the diagrams below to help understand the relationships between different components of the standard. These visualisations are provided to make the complex structure of ISO 20022 more accessible.
 
 
 ![ISO 20022 Core Metamodel](./images/ISO20022_2013-metamodel-visualisation.svg)
@@ -18,9 +18,9 @@ For the best viewing experience, you can access the diagram directly in your pre
 - [PDF Format](./images/ISO20022_2013-metamodel-visualisation.pdf)
 
 
-## License
+## Licence
 
-The diagrams in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The diagrams in this repository are licensed under the [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 
 
