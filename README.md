@@ -1,4 +1,4 @@
-# ISO 20022 (2013 Edition) visualisations of the metamodel
+# ISO 20022 (2013 Edition) visualisation of the metamodel
 
 This repository contains documentation and resources related to the ISO 20022:2013 Financial Services Messaging Standard, based on the 2013 edition.
 
