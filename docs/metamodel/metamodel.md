@@ -4,9 +4,19 @@ This document describes the ISO 20022 metamodel that serves as the foundation fo
 
 ## Metamodel Visualization
 
-The ISO 20022 metamodel is visualized as a single diagram below to help understand the relationships between different components in the ISO 20022 model. These visualizations are provided to make the complex structure of ISO 20022 model more accessible.
+The ISO 20022 metamodel is visualized in the diagrams below to help understand the relationships between different components of the standard. These visualizations are provided to make the complex structure of ISO 20022 more accessible.
 
-![ISO 20022 Metamodel](./images/ISO20022_2013-metamodel-visualisation.svg)
+
+![ISO 20022 Core Metamodel](./images/ISO20022_2013-metamodel-visualisation.svg)
+
+
+
+For the best viewing experience, you can access the diagram directly in your preferred format:
+- [SVG Format](./images/ISO20022_2013-metamodel-visualisation.svg)
+- [PNG Format](./images/ISO20022_2013-metamodel-visualisation.png)
+- [JPG Format](./images/ISO20022_2013-metamodel-visualisation.jpg)
+- [PDF Format](./images/ISO20022_2013-metamodel-visualisation.pdf)
+
 
 ## License
 

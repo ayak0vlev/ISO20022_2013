@@ -10,7 +10,13 @@ This repository contains documentation and resources related to the ISO 20022:20
 
 The ISO 20022 metamodel is visualized as a single diagram below to help understand the relationships between different components in the ISO 20022 model. These visualizations are provided to make the complex structure of ISO 20022 model more accessible.
 
-![ISO 20022 Metamodel](./images/ISO20022_2013-metamodel-visualisation.svg)
+![ISO 20022 Metamodel](./docs/metamodel/images/ISO20022_2013-metamodel-visualisation.svg)
+
+For the best viewing experience, you can access the diagram directly in your preferred format:
+- [SVG Format](./docs/metamodel/images/ISO20022_2013-metamodel-visualisation.svg)
+- [PNG Format](./docs/metamodel/images/ISO20022_2013-metamodel-visualisation.png)
+- [JPG Format](./docs/metamodel/images/ISO20022_2013-metamodel-visualisation.jpg)
+- [PDF Format](./docs/metamodel/images/ISO20022_2013-metamodel-visualisation.pdf)
 
 ## License
 
