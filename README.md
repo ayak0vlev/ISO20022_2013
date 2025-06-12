@@ -1,6 +1,6 @@
-# ISO 20022 (2013 Edition) visualisation of the metamodel
+The ISO 20022 standard is a brilliant and elegant example of model-driven architecture. The architecture defines a framework for model-based design, engineering, and governance that underpins decades of industry-wide collaboration in developing interoperability standards for the financial services sector.
 
-This repository contains documentation and resources related to the ISO 20022:2013 Financial Services Messaging Standard, based on the 2013 edition.
+The ISO 20022 metamodel is a key artefact within this architecture and is central to understanding the framework.
 
 ## Contents
 
