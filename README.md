@@ -1,4 +1,4 @@
-The ISO 20022 standard is a brilliant and elegant example of model-driven architecture. The architecture defines a framework for model-based design, engineering, and governance that underpins decades of industry-wide collaboration in developing interoperability standards for the financial services sector.
+The ISO 20022 standard defines a framework for model-based design and governance that underpins decades of industry-wide collaboration in developing interoperability standards for the financial services sector.
 
 The ISO 20022 metamodel is a key artefact within this architecture and is central to understanding the framework.
 
