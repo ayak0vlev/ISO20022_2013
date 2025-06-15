@@ -1,6 +1,6 @@
-The ISO 20022 standard defines a framework for model-based design and governance that underpins decades of industry-wide collaboration in developing interoperability standards for the financial services sector.
+The ISO 20022 standard defines a framework for model-based design and governance that has underpinned decades of industry-wide collaboration in developing interoperability standards for the financial services sector.
 
-The ISO 20022 metamodel is a key artefact within this architecture and is central to understanding the framework.
+The ISO 20022 metamodel is key to understanding this framework.
 
 ## Contents
 
